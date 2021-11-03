@@ -18,10 +18,8 @@
 
 <span style="color: #04eaea;"><b>💌 <i>williamfinger@gmail.com</i></span>
 
-<span style="color: #04eaea;"><b>📞 <i>+55 47999077109</i></span>
- 
-☕  Donations ERC20, BSC and FTM-Opera accepted </b></i></i></span><br>
-0xa4a86F600ca6167D2DF8683F0d4C3eD052b7936D 
+
+
  
  
 Hello! I am William Finger, as a Senior Product Designer I`ve studied, analyzed and repeated actions and tools thousands of hours on countless projects. 
