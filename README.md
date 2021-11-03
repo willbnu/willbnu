@@ -30,8 +30,7 @@ Robust knowledge in several softwares, like Figma, Adobe Photoshop, Illustrator,
 
  </br>
 
-<span style='font-size:32px;'>☕</span><i>
-Successful Partners<b><span style="color: #000; background-color: #fff;"> 
+🏅 Successful Partners🏅<b>
 PremierSoft, Ailos, Ambev, Pagueveloz, Ailos, Philips, Petting, Government of Santa Catarina </b></i></span>
 
 
