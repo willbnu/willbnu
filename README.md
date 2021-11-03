@@ -1,4 +1,4 @@
-<img src="https://payload.cargocollective.com/1/24/779618/14241368/Triangle-by-will_800.png" min-width="400px" max-width="460px" width="460px" align="right" alt="My Digital Art">
+<img src="https://payload.cargocollective.com/1/24/779618/14241368/Triangle-by-will_800.png" min-width="400px" max-width="460px" width="460px" align="right" alt="My Digital Art"> Art by WillF
 
 🦄 Figma Latest Works to View: <br> <br>
 <span style="color: #04eaea;"><a href="https://www.figma.com/proto/nxUck1ZjJLqvUMEderJlCO/FTMpad---Design-System---Web-and-Mobile?page-id=701%3A8198&node-id=1440%3A37291&viewport=241%2C48%2C0.17&scaling=min-zoom&starting-point-node-id=1440%3A37291&hide-ui=1" target="_blank"><span style="color: #04eaea;"> <b>FTMpad - Viewer</b></span></a></span>
