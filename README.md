@@ -1,4 +1,4 @@
-<img src="https://payload.cargocollective.com/1/24/779618/14241368/Triangle-by-will_800.png" min-width="400px" max-width="460px" width="460px" align="right" alt="My Digital Art"> 
+<img src="https://payload.cargocollective.com/1/24/779618/14241368/Triangle-by-will_800.png" min-width="400px" max-width="440px" width="440px" align="right" alt="My Digital Art"> 
 
 
 🦄 Figma Latest Works to View: <br> <br>
