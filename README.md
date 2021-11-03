@@ -23,18 +23,17 @@
  
  
 As a Senior Product Designer I've studied, analyzed and repeated actions and tools thousands of hours on countless projects. 
- 
 In them I used a wide range of concepts, among them are Design and Web Design, Branding, Typography, Photo editing, Books, Professional Ads and high quality fidelity in copying and pasting anything you can find.
  
-Robust knowledge in several softwares,like Figma, Adobe Photoshop, Illustrator, XD, After Effects/Premiere/Media Encoder, Indesign, Lightroom, Corel Draw, Cinema 4D and of course all the Office Pack. Some knowledge in physics, chemistry and psychology.<b>
+ 
+Robust knowledge in several softwares, like Figma, Adobe Photoshop, Illustrator, XD, After Effects/Premiere/Media Encoder, Indesign, Lightroom, Corel Draw, Cinema 4D and of course all the Office Pack. Some knowledge in physics, chemistry and psychology.<b>
 
-
+ </br>
 
 <span style='font-size:32px;'>☕</span><i>
 Successful Partners<b><span style="color: #000; background-color: #fff;"> 
-PremierSoft, Ambev, Pagueveloz, Ailos, Philips, Petting, Government of Santa Catarina </b></i></span>
+PremierSoft, Ailos, Ambev, Pagueveloz, Ailos, Philips, Petting, Government of Santa Catarina </b></i></span>
 
-Twelve years ago as a designer freelancer, I started working with Photo Manipulation for an agency, later i worked as Photographer Assistant, than Web Design/Animation and finally Mobile. Now, since eight years ago i'm a professional UX/UI designer working for big brazilian companies, like banks marketplaces and stores.
 
  </br>
 <span style='font-size:32px;'>☕</span> Von ₿lumenau, ₿razil <span style='font-size:32px;'> ☕</span>
