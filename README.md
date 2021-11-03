@@ -22,9 +22,9 @@
 
  
  
-Hello! I am William Finger, as a Senior Product Designer I`ve studied, analyzed and repeated actions and tools thousands of hours on countless projects. 
+As a Senior Product Designer I`ve studied, analyzed and repeated actions and tools thousands of hours on countless projects. 
  
- In them I used a wide range of concepts, among them are Design and Web Design, Branding, Typography, Photo editing, Books, Professional Ads and high quality fidelity in copying and pasting anything you can find.
+In them I used a wide range of concepts, among them are Design and Web Design, Branding, Typography, Photo editing, Books, Professional Ads and high quality fidelity in copying and pasting anything you can find.
  
 Robust knowledge in several softwares,like Figma, Adobe Photoshop, Illustrator, XD, After Effects/Premiere/Media Encoder, Indesign, Lightroom, Corel Draw, Cinema 4D and of course all the Office Pack. Some knowledge in physics, chemistry and psychology.<b>
 
