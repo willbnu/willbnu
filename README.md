@@ -16,7 +16,7 @@ Professional Links: <br> <br>
 
 <span style="color: #04eaea;"><a href="https://www.linkedin.com/in/willfinger/" target="_blank"><span style="color: #04eaea;"> <b>🌌 LinkedIn</b></span></a></span>
 
-
+ </br>
   
  
 Robust knowledge in several softwares, like Figma, Adobe Photoshop, Illustrator, XD, After Effects/Premiere/Media Encoder, Indesign, Lightroom, Corel Draw, Cinema 4D and of course all the Office Pack. Some knowledge in physics, psychology, math, history and chemistry.
