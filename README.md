@@ -16,9 +16,6 @@ Professional Links: <br> <br>
 
 <span style="color: #04eaea;"><a href="https://www.linkedin.com/in/willfinger/" target="_blank"><span style="color: #04eaea;"> <b>🌌 LinkedIn</b></span></a></span>
 
-<span style="color: #04eaea;"><b>💌 <i>williamfinger@gmail.com</i></span>
-
-
 
   
  
