@@ -30,9 +30,6 @@ As a Senior Product Designer I've studied, analyzed and repeated actions and too
  </br>
 
 
-
-
- </br>
 <span style='font-size:32px;'>☕</span> Von ₿lumenau <span style='font-size:32px;'> ☕</span>
 
 
