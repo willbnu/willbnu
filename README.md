@@ -29,12 +29,11 @@ As a Senior Product Designer I've studied, analyzed and repeated actions and too
 
  </br>
 
-🏅 Successful Partners🏅<br>
-PremierSoft, Ailos, Ambev, Pagueveloz, Ailos, Philips, Petting, Government of Santa Catarina </b></i></span>
+
 
 
  </br>
-<span style='font-size:32px;'>☕</span> Von ₿lumenau, ₿razil <span style='font-size:32px;'> ☕</span>
+<span style='font-size:32px;'>☕</span> Von ₿lumenau <span style='font-size:32px;'> ☕</span>
 
 
 </p>
