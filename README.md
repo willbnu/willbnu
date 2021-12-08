@@ -12,7 +12,7 @@ Figma Latest Works to View: <br> <br>
 <br>
 
 Professional Links: <br> <br>
-<span style="color: #04eaea;"><a href="https://cargocollective.com/willfinger" target="_blank"><span style="color: #04eaea;"> <b>🏅 UX/UI Portfolio</b></span></a></span>
+<span style="color: #04eaea;"><a href="https://cargocollective.com/willfinger" target="_blank"><span style="color: #04eaea;"> <b>🏅 Mobile Portfolio</b></span></a></span>
 
 **<span style="color: #04eaea;"><a href="https://drive.google.com/file/d/1dKxctk1PbzMyUaJAcJzd2un2KFEN3QSz/view" target="_blank"><span style="color: #04eaea;"> <b> 💼  Curriculum</b></span></a></span>**
 
