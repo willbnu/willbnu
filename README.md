@@ -13,7 +13,9 @@ Blockchain Latest Works to View on Portfolio: <br> <br>
 
  <br> <br>
 Professional Links: <br> <br>
-<span style="color: #04eaea;"><a href="https://cargocollective.com/willfinger" target="_blank"><span style="color: #04eaea;"> <b>🏅 Mobile Portfolio </b></span></a></span>
+<span style="color: #04eaea;"><a href="https://cargocollective.com/willfinger" target="_blank"><span style="color: #04eaea;"> <b>🏅 Mobile Portfolio </b></span></a>
+</span>
+
 <span style="color: #04eaea;"><a href="https://cargocollective.com/williamfinger" target="_blank"><span style="color: #04eaea;"> <b>🏅 Advertise Portfolio </b></span></a></span>
 
 <span style="color: #04eaea;"><a href="https://drive.google.com/file/d/1ML7oCwUUxvNm6jKDXwhLZ1iK5Yjjy1d_/view" target="_blank"><span style="color: #04eaea;"> <b> 💼  Curriculum</b></span></a></span>
