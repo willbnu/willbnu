@@ -1,6 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.button1 {background-color: pink;} 
+.button2 {background-color: blue;} 
+</style>
+</head>
+<body>
+
+
+
 <img src="https://payload.cargocollective.com/1/24/779618/14241368/Triangle-by-will_800.png" min-width="400px" max-width="440px" width="440px" align="right" alt="My Digital Art"> 
 
-
+<button class="button button1">DataFlair</button>
 Blockchain Portfolio Latest: <br> <br>
 <a href="https://www.figma.com/proto/O4aXvHkcYOPXg4AGUm8lGe/Dx--Concept---WilliamF?page-id=52%3A9615&node-id=52%3A14734&viewport=501%2C48%2C0.35&scaling=scale-down&starting-point-node-id=52%3A14734&hide-ui=1" target="_blank"> <b>🦄 Dx Concept - Viewer</b></span></a></span>
 
