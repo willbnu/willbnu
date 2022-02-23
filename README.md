@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
+
 <style>
 .button {
   border: none;
@@ -16,8 +14,7 @@
 .button1 {background-color: pink;} 
 .button2 {background-color: blue;} 
 </style>
-</head>
-<body>
+
 
 
 
