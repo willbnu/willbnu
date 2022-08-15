@@ -1,5 +1,5 @@
 
-<img src="https://cdn.discordapp.com/attachments/966230714532106311/1006190271039537352/Astraly-briq-INO-v2.gif" min-width="400px" max-width="440px" width="440px" align="right" alt="My Digital Art"> 
+<img src="https://cdn.discordapp.com/attachments/966230714532106311/1006190271039537352/Astraly-briq-INO-v2.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="My Digital Art"> 
 
 Blockchain Portfolio Latest: <br> <br>
 <a href="https://www.figma.com/proto/O4aXvHkcYOPXg4AGUm8lGe/Dx--Concept---WilliamF?page-id=52%3A9615&node-id=52%3A14734&viewport=501%2C48%2C0.35&scaling=scale-down&starting-point-node-id=52%3A14734&hide-ui=1" target="_blank"> <b>🦄 Dx Concept - Viewer</b></span></a></span>
