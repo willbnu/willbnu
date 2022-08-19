@@ -2,9 +2,9 @@
 <img src="https://payload.cargocollective.com/1/24/779618/14241368/Triangle-by-will_800.png" min-width="400px" max-width="440px" width="440px" align="right" alt="My Digital Art"> 
 
 Blockchain Portfolio Latest: <br> <br>
-<a href="https://www.figma.com/proto/O4aXvHkcYOPXg4AGUm8lGe/Dx--Concept---WilliamF?page-id=52%3A9615&node-id=52%3A14734&viewport=501%2C48%2C0.35&scaling=scale-down&starting-point-node-id=52%3A14734&hide-ui=1" target="_blank"> <b>🦄 Dx Concept - Viewer</b></span></a></span>
-
 <a href="https://www.figma.com/proto/nxUck1ZjJLqvUMEderJlCO/FTMpad---Design-System---Web-and-Mobile?page-id=701%3A8198&node-id=1440%3A37291&viewport=241%2C48%2C0.17&scaling=min-zoom&starting-point-node-id=1440%3A37291&hide-ui=1" target="_blank"> <b>🦄 FTMpad - Incubator - Viewer</b></span></a></span>
+
+<a href="https://www.figma.com/proto/O4aXvHkcYOPXg4AGUm8lGe/Dx--Concept---WilliamF?page-id=52%3A9615&node-id=52%3A14734&viewport=501%2C48%2C0.35&scaling=scale-down&starting-point-node-id=52%3A14734&hide-ui=1" target="_blank"> <b>🦄 Dx Concept - Viewer</b></span></a></span>
 
 <a href="https://www.figma.com/proto/vtVhZSqbwjW2PDlQpKDg4w/V4-Tomb-Finance-Revamp---Design-System---Web---Ready-for-Dev?page-id=701%3A8198&node-id=2861%3A165776&viewport=501%2C48%2C0.7&scaling=scale-down-width&starting-point-node-id=3362%3A117149&hide-ui=1" target="_blank"> <b>🦄 Tomb Finance - Algostable/DAO - Viewer</b></span></a></span> 
 
