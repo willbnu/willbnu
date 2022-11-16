@@ -6,7 +6,8 @@ Blockchain Portfolio Latest: <br> <br>
 <a href="https://www.figma.com/proto/ZzOt7pFXCAF7nnIr4lRmhL/Astraly-Products-3.7?page-id=5743%3A205110&node-id=5743%3A206747&viewport=663%2C1462%2C0.02&scaling=scale-down&starting-point-node-id=5743%3A206747&hide-ui=1" target="_blank"> <b>🦄 Astraly - Launchpad - Viewer</b></span></a></span>
 
 
-<a href="https://www.figma.com/proto/ZzOt7pFXCAF7nnIr4lRmhL/Astraly-Products-3.7?page-id=4658%3A113327&node-id=6519%3A232394&viewport=-11146%2C6230%2C0.18&scaling=scale-down&starting-point-node-id=6519%3A232394&hide-ui=1" target="_blank"> <b>🦄 Astraly - Landing Page - Viewer</b></span></a></span>
+<a href="https://www.figma.com/proto/ZzOt7pFXCAF7nnIr4lRmhL/Astraly-Products-3.7?page-id=4658%3A113327&node-id=6519%3A232394&viewport=-11146%2C6230%2C0.18&scaling=scale-down&starting-point-node-id=6519%3A232394&hide-ui=1" target="_blank"> <b>🦄 Astraly - Landing Page - Dark Mode and White Mde 
+- Viewer</b></span></a></span>
 
 <a href="https://www.figma.com/proto/nxUck1ZjJLqvUMEderJlCO/FTMpad---Design-System---Web-and-Mobile?page-id=701%3A8198&node-id=1440%3A37291&viewport=241%2C48%2C0.17&scaling=min-zoom&starting-point-node-id=1440%3A37291&hide-ui=1" target="_blank"> <b>🦄 FTMpad - Incubator - Viewer</b></span></a></span>
 
