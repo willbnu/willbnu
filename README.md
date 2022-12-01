@@ -1,6 +1,16 @@
 
 <img src="https://payload.cargocollective.com/1/24/779618/14241368/Triangle-by-will_800.png" min-width="400px" max-width="440px" width="440px" align="right" alt="My Digital Art"> 
 
+Professional Links: <br> <br>
+
+<span style="color: #04eaea;"><a href="https://willcreative.studio" target="_blank"><span style="color: #04eaea;"> <b>🏅 Portfolio </b></span></a></span>
+
+<span style="color: #04eaea;"><a href="https://drive.google.com/file/d/1ML7oCwUUxvNm6jKDXwhLZ1iK5Yjjy1d_/view" target="_blank"><span style="color: #04eaea;"> <b> 💼  Curriculum</b></span></a></span>
+
+<span style="color: #04eaea;"><a href="https://www.linkedin.com/in/willfinger/" target="_blank"><span style="color: #04eaea;"> <b>🌌 LinkedIn</b></span></a></span>
+
+</br>
+
 Blockchain Portfolio Latest: <br> <br>
 
 <a href="https://www.figma.com/proto/nxUck1ZjJLqvUMEderJlCO/FTMpad---Design-System---Web-and-Mobile?page-id=701%3A8198&node-id=1440%3A37291&viewport=241%2C48%2C0.17&scaling=min-zoom&starting-point-node-id=1440%3A37291&hide-ui=1" target="_blank"> <b>🦄 FTMpad - Incubator - Viewer</b></span></a></span>
@@ -15,15 +25,6 @@ Blockchain Portfolio Latest: <br> <br>
 <br>
 
  <br> <br>
-Professional Links: <br> <br>
-
-<span style="color: #04eaea;"><a href="https://willcreative.studio" target="_blank"><span style="color: #04eaea;"> <b>🏅 Portfolio </b></span></a></span>
-
-<span style="color: #04eaea;"><a href="https://drive.google.com/file/d/1ML7oCwUUxvNm6jKDXwhLZ1iK5Yjjy1d_/view" target="_blank"><span style="color: #04eaea;"> <b> 💼  Curriculum</b></span></a></span>
-
-<span style="color: #04eaea;"><a href="https://www.linkedin.com/in/willfinger/" target="_blank"><span style="color: #04eaea;"> <b>🌌 LinkedIn</b></span></a></span>
-
-</br>
 
 Robust knowledge in several softwares, like Figma, Adobe Photoshop, Illustrator, XD, After Effects/Premiere/Media Encoder, Indesign, Lightroom, Corel Draw, Cinema 4D and of course all the Office Pack. Some knowledge in physics, psychology, math, history and chemistry.
  
