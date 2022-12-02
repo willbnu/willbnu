@@ -1,9 +1,6 @@
 
 <img src="https://payload.cargocollective.com/1/24/779618/14241368/Triangle-by-will_800.png" min-width="400px" max-width="440px" width="440px" align="right" alt="My Digital Art"> 
 
-<kbd>
-[KBD]: Types/KBD.md
-
 
 Professional Links: <br> <br>
 
