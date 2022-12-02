@@ -1,19 +1,7 @@
 
 <img src="https://payload.cargocollective.com/1/24/779618/14241368/Triangle-by-will_800.png" min-width="400px" max-width="440px" width="440px" align="right" alt="My Digital Art"> 
 
-[![Button Shield]][Shield]
-
-</div>
-
-<br>
-<br>
-
-
-<!---------------------------------------------------------------------------->
-
-[Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
-
-[Shield]: Types/Shield.md
+[<kbd> <br> KeyBinding Button <br> </kbd>][KBD]
 [KBD]: Types/KBD.md
 
 
