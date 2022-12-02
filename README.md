@@ -1,18 +1,6 @@
 
 <img src="https://payload.cargocollective.com/1/24/779618/14241368/Triangle-by-will_800.png" min-width="400px" max-width="440px" width="440px" align="right" alt="My Digital Art"> 
 
-
-<div align = center>
-         
-# Buttons
-         
-**Links  ➞  Buttons**
-
-<br>
-<br>
-
-[<kbd> <br> KeyBinding Button <br> </kbd>][KBD]
-
 [![Button Shield]][Shield]
 
 </div>
