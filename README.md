@@ -4,9 +4,8 @@
 
 Professional Links: <br> <br>
 
-<h1><span style="color: #04eaea;"><a href="https://willcreative.studio" target="_blank"><span style="color: #04eaea;"><b>🏅 Portfolio</b></span></a></span></h1>
+<h1><a href="https://willcreative.studio" target="_blank"><span style="color: #04eaea;"><b>🏅 Portfolio</b></span></a></h1>
 
- <br>
 <span style="color: #04eaea;"><a href="https://drive.google.com/file/d/1ML7oCwUUxvNm6jKDXwhLZ1iK5Yjjy1d_/view" target="_blank"><span style="color: #04eaea;"> <b> 💼  Curriculum</b></span></a></span>
 
 <span style="color: #04eaea;"><a href="https://docs.google.com/document/d/1He3bArzcIMsV8viHcE_LQYsp2SMaZRZxjvui8tbl3fQ/edit?usp=sharing" target="_blank"><span style="color: #04eaea;"> <b> 💌  Letter</b></span></a></span>
