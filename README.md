@@ -3,9 +3,7 @@
 
 Professional Links: <br> <br>
 
-<span style="color: #04eaea;"><a href="https://www.willcreative.studio/s/William-Finger-Curriculum-2023.pdf" target="_blank"><span style="color: #04eaea;"> <b> 💼  My Resume</b></span></a></span>
-
-<span style="color: #04eaea;"><a href="https://www.willcreative.studio/s/William-Finger-Cover-Letter-2023.pdf" target="_blank"><span style="color: #04eaea;"> <b> 💌  Cover Letter</b></span></a></span>
+<span style="color: #04eaea;"><a href="https://www.willcreative.studio" target="_blank"><span style="color: #04eaea;"> <b> PORTFOLIO </b></span></a></span>
 
 <span style="color: #04eaea;"><a href="https://www.linkedin.com/in/willfinger/" target="_blank"><span style="color: #04eaea;"> <b>🌌 LinkedIn</b></span></a></span>
 
