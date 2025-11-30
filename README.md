@@ -1,6 +1,6 @@
 <img src="https://payload.cargocollective.com/1/24/779618/14241368/Triangle-by-will_800.png" min-width="500px" max-width="550px" width="550px" align="right" alt="My Digital Art"> 
 Professional Links:  <br>
-<span style="color: #04eaea;"><a href="https://www.willcreative.studio" target="_blank"><span style="color: #04eaea;"> <b> Product Design Portfolio </b></span></a></span>
+<span style="color: #04eaea;"><a href="https:///willcreativestudio.wixstudio.com/willcreative" target="_blank"><span style="color: #04eaea;"> <b> Product Design Portfolio </b></span></a></span>
 </br>
 
 <span style="color: #04eaea;"><a href="https://www.linkedin.com/in/willfinger/" target="_blank"><span style="color: #04eaea;"> <b> LinkedIn</b></span></a></span>
