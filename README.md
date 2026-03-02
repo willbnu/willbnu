@@ -106,9 +106,7 @@ const william = {
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amplitude-000000?style=flat-square&logo=amplitude&logoColor=white"/>
   <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
 </p>
 
 ---
