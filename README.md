@@ -78,10 +78,10 @@ const william = {
 
 | Project | Challenge | Impact |
 |---------|-----------|--------|
-| **[Sweat Economy](https://willfinger.com/cases/prj-04)** | Migrate 150M+ Web2 users on-chain | Record-breaking DAO governance |
-| **[Astraly Labs](https://willfinger.com/cases/prj-03)** | Launch ZK Rollup from 0 → 30K users | Strategic partnerships secured |
-| **[Tomb Finance](https://willfinger.com/cases/prj-01)** | Recover de-pegged stablecoin | **$100M+ TVL recovered** |
-| **[PremierSoft](https://willfinger.com/cases/prj-02)** | Scale design operations | 4 → 150+ team members |
+| **[Sweat Economy](https://willfinger.com/case-study/sweat-economy)** | Migrate 150M+ Web2 users on-chain | Record-breaking DAO governance |
+| **[Astraly Labs](https://willfinger.com/case-study/astraly-labs)** | Launch ZK Rollup from 0 → 30K users | Strategic partnerships secured |
+| **[Tomb Finance](https://willfinger.com/case-study/tomb-finance)** | Recover de-pegged stablecoin | **$100M+ TVL recovered** |
+| **[PremierSoft](https://willfinger.com/case-study/premiersoft)** | Scale design operations | 4 → 150+ team members |
 
 🔗 **View all case studies at [willfinger.com](https://willfinger.com)**
 
