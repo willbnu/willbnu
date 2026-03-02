@@ -1,7 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=William%20Finger&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Principal%20Product%20Designer%20%26%20AI%20Architect&descAlignY=51&descSize=18"/>
+<h1 align="center">
+  <a href="https://willfinger.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=36&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=William+Finger" alt="William Finger"/>
+  </a>
+</h1>
 
 <p align="center">
-  <a href="https://willfinger.com"><img src="https://img.shields.io/badge/Portfolio-willfinger.com-0A66C2?style=for-the-badge&logo=framer&logoColor=white"/></a>
+  <em>Principal Product Designer & AI Architect</em>
+</p>
+
+<p align="center">
+  <a href="https://willfinger.com"><img src="https://img.shields.io/badge/Portfolio-willfinger.com-8B5CF6?style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/willfinger/"><img src="https://img.shields.io/badge/LinkedIn-William%20Finger-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:william@willfinger.com"><img src="https://img.shields.io/badge/Email-william%40willfinger.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
@@ -70,10 +78,10 @@ const william = {
 
 | Project | Challenge | Impact |
 |---------|-----------|--------|
-| **[Sweat Economy](https://willfinger.com)** | Migrate 150M+ Web2 users on-chain | Record-breaking DAO governance |
-| **[Astraly Labs](https://willfinger.com)** | Launch ZK Rollup from 0 → 30K users | Strategic partnerships secured |
-| **[Tomb Finance](https://willfinger.com)** | Recover de-pegged stablecoin | **$100M+ TVL recovered** |
-| **[PremierSoft](https://willfinger.com)** | Scale design operations | 4 → 150+ team members |
+| **[Sweat Economy](https://willfinger.com#projects)** | Migrate 150M+ Web2 users on-chain | Record-breaking DAO governance |
+| **[Astraly Labs](https://willfinger.com#projects)** | Launch ZK Rollup from 0 → 30K users | Strategic partnerships secured |
+| **[Tomb Finance](https://willfinger.com#projects)** | Recover de-pegged stablecoin | **$100M+ TVL recovered** |
+| **[PremierSoft](https://willfinger.com#projects)** | Scale design operations | 4 → 150+ team members |
 
 🔗 **View all case studies at [willfinger.com](https://willfinger.com)**
 
@@ -94,9 +102,9 @@ const william = {
 
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amplitude-000000?style=flat-square&logo=amplitude&logoColor=white"/>
   <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white"/>
@@ -107,13 +115,11 @@ const william = {
 
 ### 🏆 Recognition
 
-<table>
-  <tr>
-    <td>🏅 <b>Indispensable Employee Award</b> — PremierSoft (2021)</td>
-    <td>🥇 <b>1st Place</b> — Playbor National Competition (2017)</td>
-    <td>🥇 <b>1st Place</b> — SENAI Game Jam (2014)</td>
-  </tr>
-</table>
+| Award | Organization | Year |
+|-------|--------------|------|
+| 🏅 Indispensable Employee Award | PremierSoft | 2021 |
+| 🥇 1st Place | Playbor National Competition | 2017 |
+| 🥇 1st Place | SENAI Game Jam | 2014 |
 
 ---
 
@@ -125,10 +131,10 @@ const william = {
 
 <p align="center">
   <a href="mailto:william@willfinger.com">
-    <img src="https://img.shields.io/badge/Get%20in%20Touch-william%40willfinger.com-1a1a2e?style=for-the-badge&logo=minutemailer&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Get%20in%20Touch-william%40willfinger.com-8B5CF6?style=for-the-badge"/>
   </a>
 </p>
 
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=willbnu&color=8B5CF6&style=flat-square"/>
+</p>
