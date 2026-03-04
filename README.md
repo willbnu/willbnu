@@ -20,8 +20,6 @@
 
 I love to architect **digital ecosystems**. Based in **Lisbon, Portugal** 🇵🇹, with 10+ years designing products across three continents.
 
-> *"I don't just design interfaces—I live them."*
-
 ---
 
 ### 📊 Impact by the Numbers
