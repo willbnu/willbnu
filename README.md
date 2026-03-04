@@ -18,9 +18,9 @@
 
 ### 👋 About Me
 
-I architect **high-stakes digital ecosystems** that drive measurable business outcomes. Based in **Lisbon, Portugal** 🇵🇹, with 10+ years designing products across three continents.
+I love to architect **digital ecosystems**. Based in **Lisbon, Portugal** 🇵🇹, with 10+ years designing products across three continents.
 
-> *"I don't just design interfaces—I architect systems that make money."*
+> *"I don't just design interfaces—I live them."*
 
 ---
 
