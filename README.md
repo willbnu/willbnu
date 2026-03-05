@@ -1,11 +1,5 @@
-<h1 align="center">
-  <a href="https://willfinger.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=36&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=William+Finger" alt="William Finger"/>
-  </a>
-</h1>
-
 <p align="center">
-  <em>Principal Product Designer & AI Architect</em>
+  <em>Product Designer & AI Architect</em>
 </p>
 
 <p align="center">
