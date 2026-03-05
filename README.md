@@ -12,7 +12,7 @@
 
 ### 👋 About Me
 
-I love to architect **digital ecosystems**. Based in **Lisbon, Portugal** 🇵🇹, with 10+ years designing products across three continents.
+I love to architect **digital ecosystems**. Based in Portugal, with 10+ years designing products across three continents.
 
 ---
 
@@ -45,7 +45,7 @@ I love to architect **digital ecosystems**. Based in **Lisbon, Portugal** 🇵�
 
 ```typescript
 const william = {
-  location: "Lisbon, Portugal 🇵🇹",
+  
   role: "Principal Product Designer & AI Architect",
 
   currentFocus: [
