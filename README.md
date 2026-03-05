@@ -101,23 +101,6 @@ const william = {
   <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white"/>
 </p>
 
----
-
-### 🏆 Recognition
-
-| Award | Organization | Year |
-|-------|--------------|------|
-| 🏅 Indispensable Employee Award | PremierSoft | 2021 |
-| 🥇 1st Place | Playbor National Competition | 2017 |
-| 🥇 1st Place | SENAI Game Jam | 2014 |
-
----
-
-### 📬 Let's Connect
-
-<p align="center">
-  I'm here to make your company thrive.
-</p>
 
 <p align="center">
   <a href="mailto:william@willfinger.com">
